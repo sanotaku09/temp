@@ -1,1 +1,1 @@
-rootProject.name = "Tanoshi Extension Model"
+rootProject.name = "Tanoshi-Extension-Model"
