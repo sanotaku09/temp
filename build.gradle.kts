@@ -4,7 +4,7 @@ plugins {
     id("maven-publish")
 }
 
-group = "com.lagradost.cloudstream3"
+group = "tanoshi.extension.model"
 
 java {
     sourceCompatibility = JavaVersion.VERSION_11
